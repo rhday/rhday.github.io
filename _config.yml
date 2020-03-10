@@ -1,11 +1,11 @@
 # Site settings
 author: Ruari Day
-title: 
+title: RuarDayta
 header-img: img/home-bg.png
 email: ruariday@gmail.com
 copyright_name: Ruari Day
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The pathway. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rhday
