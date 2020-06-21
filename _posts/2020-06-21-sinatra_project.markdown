@@ -1,12 +1,11 @@
 ---
 layout: post
-title:      "**# sinatra project**"
-date:       2020-06-21 13:09:03 +0000
+title:      "** sinatra project**"
+date:       2020-06-21 09:09:04 -0400
 permalink:  sinatra_project
 ---
 
-
-"# This  sinatra project has been very difficult. I have struggled with the relationships between the views and controllers resulting in a lot of NoMethodErrors,  like this one:"
+This project has been very difficult. I have struggled with the relationships between the views and controllers resulting in a lot of NoMethodErrors,  like this one:
 
 ```
 NoMethodError at /ringers/2
